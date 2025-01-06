@@ -4,4 +4,8 @@
 ![image](https://github.com/Tao314/as-working/blob/main/IMG/Snipaste_2025-01-06_13-43-49.png)  
 
 V1.0 - 20250102  
-其实这个也不是第一个版本，目前
+其实这个也不是第一个版本，目前有两个功能  
+1. 按钮1，“Draw Circle”  
+   模拟鼠标在屏幕画圈，鼠标指针每移动十下，模拟鼠标右键点击一次，无线循环，直到用户按ESC后停止  
+3. 按钮2，“Write Email”  
+   自动新建一个outlook邮件，然后在邮件中随机输入字母，模仿写邮件，直到用户按ESC后停止  
